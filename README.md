@@ -27,7 +27,7 @@ Challenge by [Frontend Mentor](https://www.frontendmentor.io)
 
 The project is deployed on Netlify and can be accessed at the following link:
 
-https://elaborate-gingersnap-a0fa5a.netlify.app/
+https://dazzling-yeot-cf3b01.netlify.app/
 
 
 ## Getting Started
@@ -51,7 +51,7 @@ Finally, start the development server:
   npm start
 ```
 
-This will start the application in your browser at http://localhost:5173/.
+This will start the application in your browser at http://localhost:3000/.
 ## Resources
 
 Here are some resources to help you continue learning ReactJS after the workshop:
