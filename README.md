@@ -27,7 +27,7 @@ Challenge by [Frontend Mentor](https://www.frontendmentor.io)
 
 The project is deployed on Netlify and can be accessed at the following link:
 
-https://dazzling-yeot-cf3b01.netlify.app/
+https://glowing-lollipop-c34ced.netlify.app/
 
 
 ## Getting Started
