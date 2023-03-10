@@ -1,0 +1,36 @@
+@import '../../assets/Style.Variable.css';
+
+.Lists {
+    display: flex;
+    margin-top: 20px;
+}
+
+
+.List {
+    display: flex;
+}
+
+.List img {
+    height: 150px;
+
+    margin-right: 20px;
+}
+
+.List div {
+    width: 400px;
+}
+
+.List div h1 {
+    font-size: 30px;
+    color: var(--Dark-grayish-blue);
+}
+
+.List div h2 {
+    font-size: 20px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+.List div h2:hover {
+    color: var(--Soft-red);
+}

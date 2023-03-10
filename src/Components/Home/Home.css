@@ -1,0 +1,93 @@
+@import "../../assets/Style.Variable.css";
+
+.Home {
+    margin-top: 30px;
+}
+
+.Content {
+    display: flex;
+}
+
+.Left {
+    margin-right: 40px;
+}
+
+.Left img {
+    height: 250px;
+    width: 100%;
+}
+
+.LeftContent {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.LeftContent h1 {
+    font-size: 50px;
+    font-weight: bold;
+    height: 100%;
+    width: 300px;
+    
+}
+
+.LeftContent div {
+    height: 100%;
+    width: 50%;
+    margin-top: 10px;
+}
+
+.LeftContent p {
+    margin-bottom: 10px;
+}
+
+button {
+    height: 40px;
+    width: 150px;
+    background-color: var(--Soft-red);
+    color: white;
+    border: none;
+    font-size: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--Very-dark-blue);
+}
+
+
+
+.Right {
+    background-color: rgb(0, 0, 0);
+    padding: 30px 20px;
+    width: 60%;
+    color: var(--Off-white);
+}
+
+.Right h1 {
+    color: var(--Soft-orange);
+}
+
+.Right h2 {
+    color: var(--Off-white);
+    margin: 10px 0px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.Right h2:hover {
+    color: var(--Soft-orange);
+}
+
+.Right p {
+    color: var(--Grayish-blue);
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+hr {
+    color: var(--Dark-grayish-blue);
+    margin: 30px 0px;
+}
+

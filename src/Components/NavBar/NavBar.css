@@ -1,0 +1,26 @@
+header {
+    height: 60px;
+    width: 100%;
+
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+header ul li {
+    margin: 0px 10px;
+    color: black;
+    cursor: pointer;
+    list-style: none;
+}
+
+header ul li:hover {
+    color: red;
+}
